@@ -1,26 +1,22 @@
-# AceBook - Pipeface
+# Pipeface
+
+A Facebook clone project using Ruby on Rails.
+
+#### Homepage
 
 Welcome page with sign up/sing in options
+
 ![Screenshot 2021-04-14 at 16 51 19](https://user-images.githubusercontent.com/71934417/114740863-25a67380-9d42-11eb-9691-1f440f93b4ac.png)
 
-Like/comment features
+#### Post Feed Page
+
+Page displays a feed from all users. We implemented a like as well as comment features.
+
 ![Screenshot 2021-04-14 at 16 50 01](https://user-images.githubusercontent.com/71934417/114740887-2dfeae80-9d42-11eb-8cd7-3ab004c758c8.png)
 
-Unlike feature
+Once a comment has been liked, it can be unliked by the same user
+
 ![Screenshot 2021-04-14 at 16 50 45](https://user-images.githubusercontent.com/71934417/114740882-2c34eb00-9d42-11eb-8bce-595d0dd59110.png)
-
-
-REQUIRED INSTRUCTIONS:
-
-1. Fork this repository to `acebook-teamname` and customize
-the below**
-
-[You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
-
-2. The card wall is here: <please update>
-
-## How to contribute to this project
-See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Quickstart
 
