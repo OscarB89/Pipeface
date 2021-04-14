@@ -1,5 +1,9 @@
 # Pipeface
 
+<p align="center">
+<img width="250" alt="Screenshot 2021-04-14 at 18 01 55" src="https://user-images.githubusercontent.com/71934417/114750211-a6b63880-9d4b-11eb-9a75-14c1abd2bf1d.png">
+ </p>
+
 This project is part of weeks 8 and 9 of Makers Academy. The focus of the project was to practice AGILE methodologies, such as standups and sprint planning sessions, as well as learning Ruby on Rails along the way.
 
 Project requirements were specified by Makers coaches who acted as the client. We were given a set of requirements at the start of the first week and again in the second week.
@@ -75,7 +79,7 @@ As the owner of posts, only I, can update or delete them
 ## Further Requirements
 - The project should be hosted online so that everyone can visit the website.
 - The project should have CI/CD.
-- To ensure code quality, test coverage should be over 90% and have code quality and code style checks
+- The project should have a test coverage over 90%
 
 ## Homepage
 
