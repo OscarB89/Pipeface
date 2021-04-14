@@ -83,7 +83,7 @@ As the owner of posts, only I, can update or delete them
 
 ## Homepage
 
-Welcome page with sign up/sign in options
+Welcome page with sign up/sign in options.
 
 ![Screenshot 2021-04-14 at 16 51 19](https://user-images.githubusercontent.com/71934417/114740863-25a67380-9d42-11eb-9691-1f440f93b4ac.png)
 
