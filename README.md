@@ -89,11 +89,11 @@ Welcome page with sign up/sign in options.
 
 ## Post Feed Page
 
-Page displays a feed from all users. We implemented a like as well as comment features.
+Page displays a feed from all users. A message, inserted by the user, sits on top of each post and a like as well as a comment feature at the bottom.
 
 ![Screenshot 2021-04-14 at 16 50 01](https://user-images.githubusercontent.com/71934417/114740887-2dfeae80-9d42-11eb-8cd7-3ab004c758c8.png)
 
-Once a comment is liked, it can be unliked by the same user.
+Once a post is liked, it can be unliked by the same user.
 
 ![Screenshot 2021-04-14 at 16 50 45](https://user-images.githubusercontent.com/71934417/114740882-2c34eb00-9d42-11eb-8bce-595d0dd59110.png)
 
